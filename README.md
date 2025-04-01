@@ -1,0 +1,2 @@
+# ClickCapybaraGame
+кликер
